@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("jumlah")
         println("kurang")
+        println("kali")
         //git push -u origin main
     }
 }
