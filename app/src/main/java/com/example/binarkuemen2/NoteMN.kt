@@ -14,7 +14,7 @@ class NoteMN {
     //unstage area yang lagi diketik 00:58:01
     //git add --all || ke stage area 01:00:01
     //git commit -m "message" || ke committed area 01:02:01
-    //git push -u origin main || ke remote area 01:03:01
+    //git push origin main || ke remote area 01:03:01
 
     //compare data 01:03:01
     //tutorial clone 01:10:00
@@ -25,7 +25,7 @@ class NoteMN {
     //penjelasan branch 01:39:00
     //git branch --all || check branch
     //git checkout -b namabranch || buat branch
-    //git checkout namabranch || pindah ke branch yang diinginkan
+    //git checkout namabranch || pindah ke branch yang diinginkan asd
 
 
 }
