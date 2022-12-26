@@ -9,9 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("jumlah")
-        println("kurang")
-        println("kali")
-        //git push -u origin main
+
+
 
         println("Hello World!")
         println("=============================")

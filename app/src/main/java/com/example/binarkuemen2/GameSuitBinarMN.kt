@@ -1,6 +1,7 @@
 package com.example.binarkuemen2
 
 class GameSuitBinarMN {
+    /*
     var println("Hello World!")
     println("=============================")
     println("GAME SUIT TERMINAL VERSION")
@@ -34,4 +35,6 @@ class GameSuitBinarMN {
         println("error")
     }
     //oke
+    */
+
 }
